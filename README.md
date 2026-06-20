@@ -33,7 +33,7 @@ How can an automated component separation pipeline—using Machine Learning for 
 
 ---
 
-### 🕸️ Pillar 2: The Structural Framework (Modified Gravity)
+### Pillar 2: The Structural Framework (Modified Gravity)
 
 #### **Overview**
 *   **Target:** Ultra-fine, microscopic details of the universe (high multipoles, $1000 < \ell < 2000$).
