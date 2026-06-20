@@ -2,6 +2,9 @@
 
 Cosmic Oscillation and Multipole Parameter Analysis via Separated Signals. 
 
+## Brief Overview
+**project-compass** is a computational astrophysics pipeline designed to simulate and analyze Cosmic Microwave Background (CMB) polarization fields to test the modern cosmology. By incorporating machine learning for non-linear component separation, the project aims to isolate primordial B-modes at low multipoles to constrain the tensor-to-scalar ratio ($r$) for cosmic inflation, while evaluating high-multipole lensing signatures to test for signatures of Modified Gravity ($\gamma, \eta$) beyond Einstein's Theory of General Relativity.
+
 ## Central Research Question
 How can an automated component separation pipeline—using Machine Learning for non-linear galactic foreground removal—isolate CMB B-mode polarization to simultaneously constrain the primordial tensor-to-scalar ratio (r) and test for large-scale deviations from Einsteinian General Relativity via gravitational lensing signatures?
 
