@@ -11,7 +11,7 @@ How can an automated component separation pipeline—using Machine Learning for 
 
 ## Research Pillars & Potential Breakthroughs
 
-### 🛑 Pillar 1: The Quantum Origin (B-mode and Inflation)
+### Pillar 1: The Quantum Origin (B-mode and Inflation)
 
 #### **Overview**
 *   **Target:** Extreme large-scale features of the universe (low multipoles, $\ell < 100$).
